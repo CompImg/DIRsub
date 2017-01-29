@@ -1,4 +1,14 @@
-Simple R routine for image subtraction.
-Libraries required: oro.dicom & oro.nifti
-External software required: Elastix (http://elastix.isi.uu.nl/)
-                            N4BiasFieldCorrection & SmoothImage from ANTs (http://stnava.github.io/ANTs/)
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
