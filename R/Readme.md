@@ -1,14 +1,7 @@
-```html
-<h2>Example of code</h2>
+Simple R script to perform longitudinal image subtraction
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
+Required R libraries: oro.nifti & oro.dicom
+
+Elastix (http://elastix.isi.uu.nl/)
+
+Optional: N4BiasFieldCorrection & SmoothImage (http://stnava.github.io/ANTs/)
