@@ -4,4 +4,6 @@ Required R libraries from CRAN: oro.nifti (https://cran.r-project.org/package=or
 
 Elastix (http://elastix.isi.uu.nl/)
 
-Optional: N4BiasFieldCorrection & SmoothImage (http://stnava.github.io/ANTs/)
+dcm2niix (from MRIcroGL; http://www.mccauslandcenter.sc.edu/mricrogl/home)
+
+Optional: N4BiasFieldCorrection (http://stnava.github.io/ANTs/)
