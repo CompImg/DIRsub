@@ -6,6 +6,7 @@ library(oro.nifti); library(oro.dicom)
 #Set some paths
 wd <- getwd()
 elastix <- paste(wd,"\\elastix",sep="")
+#The elastix parameter file for registration; simple rigid registration (MI) will suffice
 paramFile <- paste(wd,"\\elastixParam.txt",sep="")
 n4bfc <- paste(wd,"\\N4BiasFieldCorrection",sep="")
 dcm2niix <- paste(wd,"\\dcm2niix",sep="")
