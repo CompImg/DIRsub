@@ -1,7 +1,7 @@
 # This script takes as input two images (DICOM), performs a rigid co-registraction and image subtraction
 # As is, this script assumes that elastix files (and optionally N4BiasFieldCorrection) are in the same folder
 # as this script (i.e. WD). Further, image files should be in sub-folders "pre" and "post" in the same directory
-library(oro.nifti); library(oro.dicom)
+library(oro.nifti)
 
 #Set some paths
 wd <- getwd()
