@@ -1,5 +1,5 @@
 # MSSub
-R and Matlab routines for longitudinal image subtraction in multiple sclerosis imaging
+Matlab routines for longitudinal DIR image subtraction in multiple sclerosis imaging
 
 
 # Please note
